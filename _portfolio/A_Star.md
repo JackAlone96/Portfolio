@@ -1,24 +1,28 @@
 ---
-title: "Memory Leak"
-excerpt: "Memory Leak is a survival tower defense 3D game with roguelite elements"
+title: "A-Star pathfinding algorithm"
+excerpt: "A-Star pathfinding algorithm C++"
 header:
 #  image: /assets/images/bio-photo.jpg
-  teaser: /assets/images/bio-photo.jpg
+  teaser: /assets/images/TenebrisMainMenu.png
+permalink: /AStar/
 sidebar:
   - title: "Role"
-    image: /assets/images/bio-photo.jpg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Game Programmer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-#gallery:
-#  - url: /assets/images/bio-photo.jpg
-#    image_path: /assets/images/bio-photo.jpg
-#    alt: "placeholder image 1"
-#  - url: /assets/images/bio-photo.jpg
-#    image_path: /assets/images/bio-photo.jpg
-#    alt: "placeholder image 2"
-#  - url: /assets/images/bio-photo.jpg
-#    image_path: /assets/images/bio-photo.jpg
-#    alt: "placeholder image 3"
+    text: "Programmed"
+  - title: "Technologies used:"
+    text: "- C++"
+  - title: "Team size: 2"
+    text: " "
+  - title: "Total time: One week"
+    text: " "
 ---
+
+## The algotithm
+
+## Improvements
+### Version #1: Array
+
+### Version #2: Node Array
+
+### Version #3: Heap Node Array

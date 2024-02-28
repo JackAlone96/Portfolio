@@ -1,55 +1,31 @@
 var store = [{
-        "title": "Memory Leak",
-        "excerpt":" ","categories": [],
+        "title": "A-Star pathfinding algorithm",
+        "excerpt":"The algotithm   Improvements  Version #1: Array   Version #2: Node Array   Version #3: Heap Node Array  ","categories": [],
         "tags": [],
-        "url": "/portfolio/A_Star/",
-        "teaser": "/assets/images/bio-photo.jpg"
+        "url": "/portfolio/AStar/",
+        "teaser": "/portfolio/assets/images/TenebrisMainMenu.png"
       },{
         "title": "Memory Leak",
-        "excerpt":"Memory Leak - Scemo chi legge  ","categories": [],
+        "excerpt":"Overview   What I learned   Game Progression System   Enemies   Mobs’ design  Melee enemies   Ranged enemies   Flying enemies   Artificial Intelligence Implementation   Bossfight   User Interface  ","categories": [],
         "tags": [],
-        "url": "/portfolio/Memory_Leak/",
-        "teaser": "/assets/images/bio-photo.jpg"
-      },{
-        "title": "Memory Leak",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/portfolio/Port_post_4/",
-        "teaser": "/assets/images/bio-photo.jpg"
-      },{
-        "title": "Memory Leak",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/portfolio/Port_post_5/",
-        "teaser": "/assets/images/bio-photo.jpg"
-      },{
-        "title": "Memory Leak",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/portfolio/Port_post_6/",
-        "teaser": "/assets/images/bio-photo.jpg"
-      },{
-        "title": "Memory Leak",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/portfolio/Port_post_7/",
-        "teaser": "/assets/images/bio-photo.jpg"
+        "url": "/portfolio/MemoryLeak/",
+        "teaser": "/portfolio/assets/images/MemoryLeak.png"
       },{
         "title": "Tenebris",
-        "excerpt":"Tenebris  ","categories": [],
+        "excerpt":"Overview   What I learned   Event Driven Approach - Event Manager   Procedural Content Generation  Simple implementation of the Wave Function Collapse algorithm   Game progression system   Enemies   Dialogue Tool   Key mapping system  ","categories": [],
         "tags": [],
-        "url": "/Tenebris/",
-        "teaser": "/assets/images/bio-photo.jpg"
+        "url": "/portfolio/Tenebris/",
+        "teaser": "/portfolio/assets/images/TenebrisMainMenu.png"
       },{
         "title": "Welcome to Jekyll!",
         "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
         "tags": [],
-        "url": "/jekyll/update/welcome-to-jekyll/",
+        "url": "/portfolio/jekyll/update/welcome-to-jekyll/",
         "teaser": null
       },{
         "title": "Ciao che fai?",
         "excerpt":"Ciao che fai?  ","categories": ["jekyll","update"],
         "tags": [],
-        "url": "/jekyll/update/ciao-che-fai/",
+        "url": "/portfolio/jekyll/update/ciao-che-fai/",
         "teaser": null
       }]

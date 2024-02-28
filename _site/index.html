@@ -13,7 +13,7 @@
 <meta name="description" content="An amazing website.">
 
 
-  <meta name="author" content="Giovanni Giacalone">
+  <meta name="author" content="Contact me">
   
 
 
@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Giovanni Giacalone">
 <meta property="og:title" content="Giovanni Giacalone">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:url" content="http://localhost:4000/portfolio/">
 
 
   <meta property="og:description" content="An amazing website.">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://localhost:4000/portfolio/">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "Giovanni Giacalone",
-      "url": "http://localhost:4000/"
+      "url": "http://localhost:4000/portfolio/"
     
   }
 </script>
@@ -76,7 +76,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/portfolio/assets/css/main.css">
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
@@ -90,7 +90,7 @@
 
   </head>
 
-  <body class="layout--collection">
+  <body class="layout--collection wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -110,12 +110,16 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/">
+        <a class="site-title" href="/portfolio/">
           Giovanni Giacalone
-          <span class="site-subtitle">Game Programmer</span>
+          <span class="site-subtitle">Game Programmer Portfolio</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/portfolio/">Projects</a>
+              <a href="/portfolio/">About me</a>
+            </li><li class="masthead__menu-item">
+              <a href="/portfolio/Contact_me/">Contacts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/portfolio/Resume/">Resume</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -143,20 +147,14 @@
 <div itemscope itemtype="https://schema.org/Person">
 
   
-    <div class="author__avatar">
-      
-        <img src="/assets/images/bio-photo.jpg" alt="Giovanni Giacalone" itemprop="image">
-      
-    </div>
-  
 
   <div class="author__content">
     
-      <h3 class="author__name" itemprop="name">Giovanni Giacalone</h3>
+      <h3 class="author__name" itemprop="name">Contact me</h3>
     
     
       <div class="author__bio" itemprop="description">
-        <p>I play games, I make games</p>
+        
 
       </div>
     
@@ -177,6 +175,8 @@
         
           
         
+          
+            <li><a href="https://www.linkedin.com/in/giacalone-giovanni/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
           
         
           
@@ -271,7 +271,7 @@
       
 
 <nav class="nav__list">
-  <h3 class="nav__title" style="padding-left: 0;">Projects</h3>
+  <h3 class="nav__title" style="padding-left: 0;">Projects Navigation Bar</h3>
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">Toggle menu</label>
   <ul class="nav__items">
@@ -284,9 +284,7 @@
         
         <ul>
           
-            <li><a href="/" class="active">Memory Leak</a></li>
-          
-            <li><a href="/" class="active">Progetto 2</a></li>
+            <li><a href="/portfolio/MemoryLeak/">Memory Leak</a></li>
           
         </ul>
         
@@ -300,7 +298,7 @@
         
         <ul>
           
-            <li><a href="/Tenebris/">Tenebris</a></li>
+            <li><a href="/portfolio/Tenebris/">Tenebris</a></li>
           
         </ul>
         
@@ -314,9 +312,7 @@
         
         <ul>
           
-            <li><a href="/" class="active">A-Star</a></li>
-          
-            <li><a href="/" class="active">ECS-Game Engine</a></li>
+            <li><a href="/portfolio/AStar/">A-Star</a></li>
           
         </ul>
         
@@ -352,12 +348,36 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
+        <img src="/portfolio/assets/images/TenebrisMainMenu.png" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/portfolio/A_Star/" rel="permalink">Memory Leak
+        <a href="/portfolio/AStar/" rel="permalink">A-Star pathfinding algorithm
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">A-Star pathfinding algorithm C++
+</p>
+  </article>
+</div>
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/portfolio/assets/images/MemoryLeak.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/portfolio/MemoryLeak/" rel="permalink">Memory Leak
 </a>
       
     </h2>
@@ -376,132 +396,12 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
+        <img src="/portfolio/assets/images/TenebrisMainMenu.png" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/portfolio/Memory_Leak/" rel="permalink">Memory Leak
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Memory Leak is a survival tower defense 3D game with roguelite elements
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/portfolio/Port_post_4/" rel="permalink">Memory Leak
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Memory Leak is a survival tower defense 3D game with roguelite elements
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/portfolio/Port_post_5/" rel="permalink">Memory Leak
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Memory Leak is a survival tower defense 3D game with roguelite elements
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/portfolio/Port_post_6/" rel="permalink">Memory Leak
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Memory Leak is a survival tower defense 3D game with roguelite elements
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/portfolio/Port_post_7/" rel="permalink">Memory Leak
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Memory Leak is a survival tower defense 3D game with roguelite elements
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/bio-photo.jpg" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/Tenebris/" rel="permalink">Tenebris
+        <a href="/portfolio/Tenebris/" rel="permalink">Tenebris
 </a>
       
     </h2>
@@ -535,6 +435,8 @@
     
       
         
+          <li><a href="https://www.linkedin.com/in/giacalone-giovanni/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
       
         
       
@@ -560,7 +462,7 @@
     </div>
 
     
-  <script src="/assets/js/main.min.js"></script>
+  <script src="/portfolio/assets/js/main.min.js"></script>
 
 
 

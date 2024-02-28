@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Giovanni Giacalone"
 title_separator          : "-"
-subtitle                 : "Game Programmer"
+subtitle                 : "Game Programmer Portfolio"
 name                     : "Giovanni Giacalone"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giovanni Giacalone"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I play games, I make games"
+  name             : "Contact me"
+  #avatar           : "/assets/images/bio-photo.jpg"
+  bio              : " "
   location         : "Palermo, Italy"
   email            : "giacalone.giovanni96@gmail.com"
   links:
@@ -116,9 +116,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/giacalone-giovanni/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/giacalone-giovanni/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -307,3 +307,4 @@ defaults:
       author_profile: false
       share: false
       toc: true
+      toc_sticky: true

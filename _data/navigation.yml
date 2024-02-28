@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Projects"
-    url: /portfolio/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About me"
+    url: /
+  - title: "Contacts"
+    url: /Contact_me/
+  - title: "Resume"
+    url: /Resume/
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -14,9 +14,9 @@ projects-navbar:
   - title: "Unreal Projects"
     children:
       - title: "Memory Leak"
-        url: /
-      - title: "Progetto 2"
-        url: /
+        url: /MemoryLeak/
+      #- title: "Cyberpunk Demo"
+      #  url: /
   - title: "Unity Projects"
     children:
       - title: "Tenebris"
@@ -24,6 +24,6 @@ projects-navbar:
   - title: "C++ projects"
     children:
       - title: "A-Star"
-        url: /
-      - title: "ECS-Game Engine"
-        url: /
+        url: /AStar/
+      #- title: "ECS-Game Engine"
+      #  url: /
