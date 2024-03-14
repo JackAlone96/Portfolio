@@ -6,7 +6,7 @@
   position: fixed;
   top: 0;
   width: 100%;                   
-  background: #010409;
+  background: #090c10;
   height: 85px;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
@@ -68,6 +68,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background: #090c10;
 
   .site-nav {
     margin-left: 0;
@@ -89,6 +90,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background: #090c10;
 
   &--lg {
     padding-right: 2em;
