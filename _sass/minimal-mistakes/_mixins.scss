@@ -45,7 +45,7 @@
 @mixin clearfix {
   clear: both;
   position: static;
-  top: 8.7em
+  
   &::after {
     clear: both;
     content: "";
