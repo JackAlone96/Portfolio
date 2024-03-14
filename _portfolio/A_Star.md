@@ -1,9 +1,9 @@
 ---
-title: "A-Star pathfinding algorithm"
-excerpt: "A-Star pathfinding algorithm C++"
+title: "A* pathfinding algorithm"
+excerpt: "A C++ implementation of the A* algorithm"
 header:
 #  image: /assets/images/bio-photo.jpg
-  teaser: /assets/images/TenebrisMainMenu.png
+  teaser: /assets/images/AStar.gif
 permalink: /AStar/
 sidebar:
   - title: "Role"
@@ -14,7 +14,7 @@ sidebar:
     text: "- C++"
   - title: "Team size: 2"
     text: " "
-  - title: "Total time: One week"
+  - title: "Time frame: One week"
     text: " "
 ---
 

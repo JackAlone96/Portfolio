@@ -8,5 +8,11 @@ sidebar:
   nav: projects-navbar
 classes: wide
 ---
+# Profile
 
-Ciao sono Giovanni Giacalone e questo è il mio portfolio
+<center>Game Programmer with experience in both Unreal Engine and Unity.</center>
+<center>Enthusiast about <strong>Gameplay Programming</strong>, <strong>AI Programming</strong> and <strong>UI Programming</strong>.</center>
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Portfolio

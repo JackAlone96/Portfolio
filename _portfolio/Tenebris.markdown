@@ -23,7 +23,7 @@ sidebar:
   - title: "Team size: 6"
     text: "- 2 Game Programmers\n
            - 4 Game Designers"
-  - title: "Total time: 4 months"
+  - title: "Time frame: 4 months"
     text: " "
 permalink: /Tenebris/
 
@@ -41,7 +41,7 @@ gallery:
 
 ## Overview
 
-## What I learned
+## What I have learned
 
 ## Event Driven Approach - Event Manager
 

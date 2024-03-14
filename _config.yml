@@ -108,11 +108,11 @@ author:
   #avatar           : "/assets/images/bio-photo.jpg"
   bio              : " "
   location         : "Palermo, Italy"
-  email            : "giacalone.giovanni96@gmail.com"
+  #email            : "giacalone.giovanni96@gmail.com"
   links:
-    - label: "Email"
+    - label: "giacalone.giovanni96@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "giacalone.giovanni96@gmail.com"
+      url: "mailto:giacalone.giovanni96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -144,9 +144,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/JackAlone96"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:giacalone.giovanni96@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:

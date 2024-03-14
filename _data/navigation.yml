@@ -1,8 +1,6 @@
 # main links
 main:
   - title: "About me"
-    url: /
-  - title: "Contacts"
     url: /Contact_me/
   - title: "Resume"
     url: /Resume/
