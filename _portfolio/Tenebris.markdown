@@ -68,8 +68,8 @@ dialogue:
 
 Tenebris is a 2D platform endless-runner (procedurally generated) in which a cultist fails an invocation ritual and is now chased by Tenebris, a giant entity with the only purpose of killing him.<br>
 The gameplay features classic systems and mechanics of its genre, a player in an endless run for its life while avoiding obstacles using its abilities, the Dash and the Grapple.<br>
-LINK AL GITHUB
-LINK ALL'ITCH
+[Tenebris on GitHub](https://github.com/TeamNameStudios/Tenebris)<br>
+(COMING SOON)[Tenebris on Itch.io]()<br>
 
 
 ## What I have learned
