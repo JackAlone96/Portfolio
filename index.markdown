@@ -7,11 +7,13 @@ sidebar:
   title: "Projects Navigation Bar"
   nav: projects-navbar
 classes: wide
+sort_by: order
+sort_order: reverse
 ---
 # Profile
 
-<center>Game Programmer with experience in both Unreal Engine and Unity.</center>
-<center>Enthusiast about <strong>Gameplay Programming</strong>, <strong>AI Programming</strong> and <strong>UI Programming</strong>.</center>
+Game Programmer with experience in both Unreal Engine and Unity.<br>
+Enthusiast about <strong>Gameplay Programming</strong>, <strong>AI Programming</strong> and <strong>UI Programming</strong>.
 
 --------------------------------------------------------------------------------------------------------------------------------
 

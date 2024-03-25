@@ -1,9 +1,17 @@
 ---
 title: "Memory Leak"
-excerpt: "Memory Leak is a survival tower defense 3D game with roguelite elements"
+order: 3
+excerpt: "Memory Leak is a survival tower defense 3D game with roguelite elements made in Unreal Engine"
 header:
-  #image: /assets/images/MemoryLeak.png
+  overlay_image: /assets/images/MemoryLeakLastLever.gif
   teaser: /assets/images/MemoryLeak.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  actions:
+    - label: "Memory Leak on GitHub"
+      url: "https://github.com/Helluva-Studio/Project-Factory"
+    - label: "Memory Leak on Itch.io"
+      url: "https://arakiwi.itch.io/memory-leak"
 sidebar:
   - title: "Role"
     text: "Game Programmer"
@@ -72,8 +80,6 @@ gallery7:
 ## Overview
 
 Memory Leak is a third-person survival game with roguelite and tower defense elements  where the player controls Roberto, a robot that must survive in an procedurally generated factory by looting resources and by keeping a variety of monsters at bay with the help of its powerful turrets. These will be unlocked throughout each run and will aid Roberto in its escape in many different ways.<br>
-[Memory Leak on GitHub](https://github.com/Helluva-Studio/Project-Factory)<br>
-[Memory Leak on Itch.io](https://arakiwi.itch.io/memory-leak)<br>
 
 
 ## What I have learned

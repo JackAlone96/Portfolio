@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: /Contact_me/
   - title: "Resume"
-    url: /Resume/
+    url: /assets/documents/Resume.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
 

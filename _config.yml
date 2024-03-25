@@ -107,10 +107,10 @@ author:
   name             : "Contact me"
   #avatar           : "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         : "Palermo, Italy"
+  location         : "Italy"
   #email            : "giacalone.giovanni96@gmail.com"
   links:
-    - label: "giacalone.giovanni96@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:giacalone.giovanni96@gmail.com"
     - label: "Website"

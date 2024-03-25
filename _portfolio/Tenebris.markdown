@@ -1,9 +1,17 @@
 ---
 title: "Tenebris"
-excerpt: "Tenebris is an hypercasual endless running 2D game"
+order: 2
+excerpt: "Tenebris is an hypercasual endless-runner 2D game made with Unity"
 header:
-  #image: /assets/images/bio-photo.jpg
+  overlay_image: /assets/images/TenebrisOverlay.gif
   teaser: /assets/images/TenebrisMainMenu.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  actions:
+    - label: "Tenebris on GitHub"
+      url: "https://github.com/TeamNameStudios/Tenebris"
+    - label: "Tenebris on Itch.io"
+      url: "https://jackalone.itch.io/tenebris"
 sidebar:
   - title: "Role"
     text: "Game Programmer"
@@ -63,18 +71,16 @@ dialogue:
     alt: "Tenebris Dialogue"
     title: "Dialogue Box"
 ---
-{% include gallery %}
+
 ## Overview
 
 Tenebris is a 2D platform endless-runner (procedurally generated) in which a cultist fails an invocation ritual and is now chased by Tenebris, a giant entity with the only purpose of killing him.<br>
 The gameplay features classic systems and mechanics of its genre, a player in an endless run for its life while avoiding obstacles using its abilities, the Dash and the Grapple.<br>
-[Tenebris on GitHub](https://github.com/TeamNameStudios/Tenebris)<br>
-(COMING SOON)[Tenebris on Itch.io]()<br>
 
 
 ## What I have learned
 
-Tenebris was my first big project using Unity and it’s the one where I had the opportunity to really hone my skills about <strong>C#</strong> and <strong>knowledge about the engine</strong>> by the application of everything I learned, in particular:
+Tenebris was my first big project using Unity and it’s the one where I had the opportunity to really hone my skills about <strong>C#</strong> and <strong>knowledge about the engine</strong> by the application of everything I learned, in particular:
 - Game design patterns:
     - <strong>Singleton</strong> pattern;
     - <strong>Factory</strong> pattern;
